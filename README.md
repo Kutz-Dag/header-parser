@@ -4,7 +4,7 @@ This is the boilerplate for the Request Header Parser Microservice project. Inst
 
 ### Preview:
 
-// coming soon
+![header-parser](https://github.com/user-attachments/assets/5dc6f6f4-1c92-46bd-b877-533543ea756a)
 
 ### User stories/tests to pass:
 
